@@ -13,6 +13,10 @@
 [Watch app intro on YouTube](https://youtu.be/ubC28XmIPDE)
 
 
+### Designs:
+[All the designs from Freepik] (https://www.freepik.com/)
+
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
