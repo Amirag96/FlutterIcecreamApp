@@ -7,8 +7,9 @@
 
 
 ### Screenshots
-
+<p float="left">
 <img src="AppDemo.gif" height="500em" /><img src="Screenshot.jpg" height="500em" margin-left="5px" />
+</p>
 
 [Watch app intro on YouTube](https://youtu.be/ubC28XmIPDE)
 
