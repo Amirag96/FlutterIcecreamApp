@@ -8,8 +8,7 @@
 
 ### Screenshots
 
-<img src="AppDemo.gif" height="300em" />
-<img src="Screenshot.jpg" height="300em" margin-left="5px />
+<img src="AppDemo.gif" height="500em" /> <img src="Screenshot.jpg" height="500em" margin-left="5px />
 
 [Watch app intro on YouTube](https://youtu.be/ubC28XmIPDE)
 
